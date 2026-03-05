@@ -1,0 +1,13 @@
+How to run 
+Backend ===  go to path cd Backend/LasundryAPI and use this command to run : dotnet run
+FrontEnd === go to path cd FrontEnd/laundry_app and command to run is flutter run plz be check flutter doctor first!!!!
+
+
+
+To Day i do  
+FrontEnd === install flutter in FrontEnd by install flutter SDK and make folder for Extract flie in folder and go to Edit Enviroment and hold Environment Variables and 
+select topic Use Variables for (Username computer) and select path hold New button and copy path from folder your Extract and get in folder bin and copy path and add to New 
+Enviroment and next open CMD and use command flutter doctor to check flutter and flutter create and use flutter run to build app
+
+Backend === I install .NET Framework from microsoft i search on google with asp.net core and get start and download to install before finish load it will be open CMD and install
+auto and wait it will ask somethink can hold y for finish install and create struck backend with command : dotnet create 
